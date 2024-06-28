@@ -1,0 +1,75 @@
+{
+    "printWidth": 80,
+    "tabWidth": 4,
+    "useTabs": true,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "arrowParens": "avoid",
+    "endOfLine": "auto",
+    "overrides": [
+      {
+        "files": "*.js",
+        "options": {
+          "printWidth": 80,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false,
+          "trailingComma": "es5",
+          "bracketSpacing": true,
+          "arrowParens": "avoid",
+          "endOfLine": "auto"
+        }
+      },
+      {
+        "files": "*.sql",
+        "options": {
+          "printWidth": 100,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false
+        }
+      },
+      {
+        "files": "*.js",
+        "options": {
+          "printWidth": 80,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false,
+          "trailingComma": "all"
+        }
+      },
+      {
+        "files": "*.tailwind.css",
+        "options": {
+          "printWidth": 80,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false,
+          "trailingComma": "none"
+        }
+      },
+      {
+        "files": "*.css",
+        "options": {
+          "printWidth": 80,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false,
+          "trailingComma": "none"
+        }
+      },
+      {
+        "files": "*.html",
+        "options": {
+          "printWidth": 80,
+          "tabWidth": 4,
+          "useTabs": true,
+          "singleQuote": false,
+          "bracketSpacing": true
+        }
+      }
+    ]
+  }
+  
